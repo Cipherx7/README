@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=314&color=gradient&customColorList=21&text=Hello,%20I'm%20Abhishek&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontColor=ffffff&descAlign=50&desc=Ethical%20Hacker%20|%20Blogger&descAlignY=63&descSize=18)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipherx7&label=Profile%20views&color=0e75b6&style=flat" alt="cipherx7" /> </p>
 
