@@ -8,8 +8,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Python libraries every Hacker should know](https://infosecwriteups.com/python-libraries-every-hacker-should-know-97fb5dae2efd?source=rss-cbc15e81de2c------2)
 - [Best Cybersecurity Tools You Must Know Before 2024 Ends](https://medium.com/meetcyber/best-cyber-security-tools-you-must-know-before-2024-ends-c207bd6ba0cd?source=rss-cbc15e81de2c------2)
-- [bWAPP Installation on Azure Cloud for Free](https://medium.com/illumination/how-to-easily-install-bwapp-on-azure-vms-for-free-6da82285ec89?source=rss-cbc15e81de2c------2)
 - [How to Get $100 Free Credit in Azure with a Student Email](https://medium.com/meetcyber/how-to-get-100-free-credit-in-azure-with-a-student-email-701f124667db?source=rss-cbc15e81de2c------2)
+- [Wordlists Every Pentester Must Have !!](https://infosecwriteups.com/wordlists-every-pentester-must-have-7ad4c1e46ce5?source=rss-cbc15e81de2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
