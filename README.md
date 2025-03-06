@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NEC 24 Advance Track Winner E-Cell MET Nashik!!](https://theartificialthinker.medium.com/nec-24-advance-track-winner-e-cell-met-nashik-c6a69bd95c38?source=rss-cbc15e81de2c------2)
 - [WordPress ‘xmlrpc.php’ &lpar;CVE-2020–28036&rpar; — old is gold](https://osintteam.blog/wordpress-xmlrpc-php-cve-2020-28036-old-is-gold-a0b9c301fbac?source=rss-cbc15e81de2c------2)
 - [SQL Injection Unleashed: How I Learned to Hack &lpar;and Protect&rpar; Databases](https://osintteam.blog/sql-injection-unleashed-how-i-learned-to-hack-and-protect-databases-6cd2eb572992?source=rss-cbc15e81de2c------2)
 - [How My Coffee Chat Turned Into a VC Pitch Masterclass &lpar;6 Tips Every Founder Needs&rpar;](https://blog.thewebloom.tech/how-my-coffee-chat-turned-into-a-vc-pitch-masterclass-6-tips-every-founder-needs-13a3bb998df6?source=rss-cbc15e81de2c------2)
-- [Cracking Wi-Fi Passwords: Using the Batch-WI-FI-Brute-Forcer Tool in Windows](https://medium.com/h7w/cracking-wi-fi-passwords-using-the-batch-wi-fi-brute-forcer-tool-in-windows-c2f721960662?source=rss-cbc15e81de2c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
