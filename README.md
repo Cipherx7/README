@@ -6,7 +6,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Are Using IPv6 in Ways You Won’t Believe](https://theartificialthinker.medium.com/hackers-are-using-ipv6-in-ways-you-wont-believe-8fed16d0a2dd?source=rss-cbc15e81de2c------2)
+- [Hackers Are Using IPv6 in Ways You Won’t Believe](https://infosecwriteups.com/hackers-are-using-ipv6-in-ways-you-wont-believe-8fed16d0a2dd?source=rss-cbc15e81de2c------2)
 - [NEC 24 Advance Track Winner E-Cell MET Nashik !](https://medium.com/illumination/nec-24-advance-track-winner-e-cell-met-nashik-3bd296ab52f0?source=rss-cbc15e81de2c------2)
 - [Hacking with GitHub’s hidden gems for subdomain enumeration.](https://medium.com/h7w/hacking-with-githubs-hidden-gems-for-subdomain-enumeration-a1266d4a019c?source=rss-cbc15e81de2c------2)
 - [WordPress ‘xmlrpc.php’ &lpar;CVE-2020–28036&rpar; — old is gold](https://osintteam.blog/wordpress-xmlrpc-php-cve-2020-28036-old-is-gold-a0b9c301fbac?source=rss-cbc15e81de2c------2)
