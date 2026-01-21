@@ -6,7 +6,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Discovered a Legacy SOAP API Vulnerability in a University ERP](https://theartificialthinker.medium.com/how-i-discovered-a-legacy-soap-api-vulnerability-in-a-university-erp-19b35b91950b?source=rss-cbc15e81de2c------2)
+- [How I Discovered a Legacy SOAP API Vulnerability in a University ERP](https://infosecwriteups.com/how-i-discovered-a-legacy-soap-api-vulnerability-in-a-university-erp-19b35b91950b?source=rss-cbc15e81de2c------2)
 - [Hackers Are Using IPv6 in Ways You Won’t Believe](https://osintteam.blog/hackers-are-using-ipv6-in-ways-you-wont-believe-8fed16d0a2dd?source=rss-cbc15e81de2c------2)
 - [NEC 24 Advance Track Winner E-Cell MET Nashik !](https://medium.com/illumination/nec-24-advance-track-winner-e-cell-met-nashik-3bd296ab52f0?source=rss-cbc15e81de2c------2)
 - [Hacking with GitHub’s hidden gems for subdomain enumeration.](https://medium.com/h7w/hacking-with-githubs-hidden-gems-for-subdomain-enumeration-a1266d4a019c?source=rss-cbc15e81de2c------2)
